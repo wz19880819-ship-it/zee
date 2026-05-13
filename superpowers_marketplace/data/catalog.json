@@ -1,0 +1,82 @@
+[
+  {
+    "name": "superstrength",
+    "version": "1.2.0",
+    "author": "obra",
+    "description": "Adds superhuman data-processing power — vectorized batch operations and SIMD-style list transforms.",
+    "tags": ["performance", "batch", "processing"],
+    "dependencies": []
+  },
+  {
+    "name": "timewarp",
+    "version": "0.9.1",
+    "author": "obra",
+    "description": "Time manipulation utilities: scheduling, cron expressions, timezone-aware datetime helpers, and time travel mocking for tests.",
+    "tags": ["time", "scheduling", "datetime", "testing"],
+    "dependencies": []
+  },
+  {
+    "name": "telepathy",
+    "version": "2.0.0",
+    "author": "obra",
+    "description": "Mind-reading text analysis — intent detection, sentiment scoring, and keyword extraction.",
+    "tags": ["nlp", "text", "analysis", "ai"],
+    "dependencies": []
+  },
+  {
+    "name": "flight",
+    "version": "1.0.3",
+    "author": "obra",
+    "description": "High-altitude async concurrency toolkit — task queues, semaphores, and fan-out/fan-in patterns.",
+    "tags": ["async", "concurrency", "performance"],
+    "dependencies": []
+  },
+  {
+    "name": "invisibility",
+    "version": "0.7.2",
+    "author": "obra",
+    "description": "Privacy and stealth utilities: data masking, PII scrubbing, and secrets detection.",
+    "tags": ["privacy", "security", "pii", "masking"],
+    "dependencies": []
+  },
+  {
+    "name": "healing",
+    "version": "1.1.0",
+    "author": "obra",
+    "description": "Auto-recovery toolkit — exponential-backoff retry, circuit breakers, and health-check decorators.",
+    "tags": ["resilience", "retry", "reliability"],
+    "dependencies": []
+  },
+  {
+    "name": "speedforce",
+    "version": "3.0.1",
+    "author": "obra",
+    "description": "Velocity-focused performance profiling: flame graphs, hotspot detection, and micro-benchmark runners.",
+    "tags": ["performance", "profiling", "benchmarking"],
+    "dependencies": []
+  },
+  {
+    "name": "mindcontrol",
+    "version": "1.4.0",
+    "author": "obra",
+    "description": "Configuration management superpower — layered config files, env-var overrides, and live reloading.",
+    "tags": ["config", "settings", "management"],
+    "dependencies": []
+  },
+  {
+    "name": "xrayvision",
+    "version": "0.5.0",
+    "author": "obra",
+    "description": "Deep introspection tools: object graph inspection, dependency tracing, and runtime type analysis.",
+    "tags": ["debugging", "inspection", "introspection"],
+    "dependencies": []
+  },
+  {
+    "name": "magnetism",
+    "version": "2.1.0",
+    "author": "obra",
+    "description": "Data attraction utilities — fuzzy search, record linkage, and approximate matching algorithms.",
+    "tags": ["search", "matching", "fuzzy"],
+    "dependencies": []
+  }
+]
