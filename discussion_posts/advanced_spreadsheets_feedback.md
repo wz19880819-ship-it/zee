@@ -1,53 +1,47 @@
-# Advanced Spreadsheets — Course Feedback (Draft)
+# Advanced Spreadsheets — Course Feedback
 
-> **Before posting:** This is a draft. Replace the bracketed placeholders with
-> your actual experiences, and cut anything that doesn't ring true for you —
-> your instructor is asking for *your* opinions, and specifics you actually
-> lived will read far better than generic praise.
-
----
-
-Thank you for a great semester! Here are my thoughts on the Advanced
-Spreadsheets class.
+Thank you for a great class! Here are my thoughts on the Advanced
+Spreadsheets course.
 
 **What I found most beneficial:**
 
-The units on lookup functions (VLOOKUP/XLOOKUP and INDEX/MATCH) and pivot
-tables were the most valuable for me. Before this class, I would manually
-scan through rows of data to find what I needed; now I can pull answers out
-of a large dataset in seconds. Learning conditional functions like SUMIFS,
-COUNTIFS, and nested IF statements also changed how I think about
-spreadsheets — less as a place to store numbers and more as a tool that can
-actually answer questions.
+The lessons on lookup functions such as VLOOKUP and INDEX/MATCH, along with
+pivot tables, were the most valuable parts of the course for me. Before this
+class, I would scan through rows of data manually to find what I needed; now
+I can pull answers out of a large dataset in seconds. Learning conditional
+functions like SUMIFS, COUNTIFS, and nested IF statements also changed how I
+think about spreadsheets — less as a place to store numbers and more as a
+tool that can actually answer questions.
 
-**Personally,** I've already started using what we learned for
-[e.g., tracking my monthly budget / planning a trip / organizing a side
-project]. Conditional formatting in particular makes it easy to see at a
-glance where I'm over or under.
+**Personally,** these skills are already useful in everyday life. Building a
+spreadsheet to track monthly spending, and using conditional formatting to
+highlight where I am over or under budget, makes it easy to see my finances
+at a glance in a way I could not before.
 
-**Academically,** these skills carry directly into my other coursework.
-[e.g., In my statistics class, I can clean and summarize data myself instead
-of relying on pre-made datasets / Pivot tables made my research project
-analysis much faster.]
+**Academically,** the material carries over into other coursework. Any class
+that involves data — statistics, research projects, lab reports — becomes
+easier when I can clean, organize, and summarize the data myself instead of
+struggling with it. Pivot tables in particular make summarizing large
+amounts of information much faster.
 
-**Professionally,** Excel proficiency shows up in nearly every job posting
-in my field, [your field]. Being able to say I can build lookup formulas,
-pivot tables, and charts — and actually demonstrate it — is a concrete,
-resume-ready skill. [If you have a job now: I've already used X at work
-to do Y.]
+**Professionally,** Excel proficiency appears in nearly every job posting I
+see. Being able to say I can build lookup formulas, pivot tables, charts,
+and formatted reports — and actually demonstrate those skills — is a
+concrete, resume-ready qualification. I feel much more confident listing
+spreadsheet skills on my resume now, because I know I can back them up.
 
 **Suggestions:**
 
-1. **More real-world datasets.** The exercises that used realistic, messy
-   data taught me the most. I'd love even more practice cleaning and
-   analyzing data that looks like what we'd encounter on the job.
+1. **More real-world datasets.** The exercises using realistic, messy data
+   taught me the most. More practice cleaning and analyzing data that looks
+   like what we would encounter on the job would be helpful.
 2. **A capstone-style project.** A final project where we build a complete
-   workbook from raw data to dashboard would tie all the individual skills
-   together.
-3. **A brief intro to what comes next.** Even one session touching on
-   [e.g., macros/VBA, Power Query, or Google Sheets equivalents] would help
-   us know what to learn after this course ends.
+   workbook from raw data to a finished dashboard would tie all of the
+   individual skills together nicely.
+3. **A preview of what comes next.** Even one session introducing topics
+   like macros, Power Query, or the Google Sheets equivalents of what we
+   learned would help us know what to study after the course ends.
 
-Thanks again for your patience and clear explanations throughout the
-semester — the pacing made challenging material feel manageable even with a
-busy schedule.
+Thanks again for your patience and clear explanations throughout the class —
+the pacing made challenging material feel manageable even with a busy
+schedule.
